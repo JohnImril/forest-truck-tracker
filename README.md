@@ -44,8 +44,6 @@ This project visualizes the routes of multiple trucks in real-time using a map. 
 
     ```bash
     npm run dev
-    # or
-    yarn dev
     ```
 
 3. Open your browser and navigate to `http://localhost:5173`.
